@@ -1,4 +1,4 @@
-# .github
+# 호남 오아시스 해커톤
 
 ![Untitled](./photos/1721177972720.jpg)
 
